@@ -23,11 +23,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Security
 - Gaming
-- Sporting
+- Sports
 
 education:
   courses:
-  - course: Computer Sciences
+  - course: Software Engineering
     institution: Rotterdam University of Applied Sciences
     year: 2016 - Present
   - course: HAVO Economy and Society
@@ -66,5 +66,5 @@ user_groups:
 ---
 
 My name is Mika Grootenboer,
-I’m 20 years and currently a third-year Computer Science student at the university of Rotterdam.
-In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started mine internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. During this internship I found out that I wanted to know more about the safety of applications and decided to follow the Minor Security.
+I’m 20 years old and currently a third-year Software Engineering student at Rotterdam University.
+In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. During this internship I found out that I wanted to know more about the safety of applications and decided to follow the Minor Security-Labs.
