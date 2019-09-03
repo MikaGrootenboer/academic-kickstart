@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.certifiedsecure.com/profile/CS-25031964562"
   date_start = "2019-03-01"
   date_end = ""
-  description = "UDP Port Scanning, Mail Relaying, Anonymous Uploading and Password Guessing (Obtainedall the certificates on Certified Secure)"
+  description = "UDP Port Scanning, Mail Relaying, Anonymous Uploading and Password Guessing (Obtained all the certificates on Certified Secure)"
 
 +++
