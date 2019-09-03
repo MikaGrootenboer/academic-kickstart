@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Student at Rotterdam University of Applied Sciences.
 
 interests:
 - Security
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mikag98
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/mikag98
 - icon: github
   icon_pack: fab
   link: https://github.com/MikaGrootenboer
@@ -67,4 +67,4 @@ user_groups:
 
 My name is Mika Grootenboer,
 I’m 20 years old and currently a third-year Software Engineering student at Rotterdam University.
-In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. During this internship I found out that I wanted to know more about the safety of applications and decided to follow the Minor Security-Labs. With future plans to develop myself further in the security sector.
+In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. After the internship I decided to follow the Minor Security because I was interested in the safety of applications. Currently I'm following the Minor Data Science and looking for a place to conduct my thesis.

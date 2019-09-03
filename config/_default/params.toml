@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "grootenboer.mika@outlook.com"
+#email = "grootenboer.mika@outlook.com"
 address = " Dordecht, Netherlands"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -62,7 +62,7 @@ office_hours =""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/mikag98"},
+#  {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/mikag98"},
   {icon = "linkedin", icon_pack = "fab", name = "Add me", link = "https://www.linkedin.com/in/mika-grootenboer-3b8b84145/"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
