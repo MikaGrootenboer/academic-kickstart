@@ -6,7 +6,7 @@ summary: "BugBot is a hardware-based reconnaissance tool controlled from a centr
 authors: []
 tags: []
 categories: []
-date: 2019-09-05T13:03:14+02:00
+date: 2019-06-01T13:03:14+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
