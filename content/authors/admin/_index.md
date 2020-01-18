@@ -66,5 +66,5 @@ user_groups:
 ---
 
 My name is Mika Grootenboer,
-I’m 20 years old and currently a fourth-year Software Engineering student at Rotterdam University.
-In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. After the internship I decided to follow the Minor Security because I was interested in the safety of applications. Currently I'm following the Minor Data Science and looking for a place to conduct my thesis.
+I’m 21 years old and currently a fourth-year Software Engineering student at Rotterdam University.
+In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. After the internship I decided to follow the Minor Security because I was interested in the safety of applications. Currently I'm following the Minor Data Science and soon starting my internship.

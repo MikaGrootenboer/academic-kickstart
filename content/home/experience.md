@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Dordrecht"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2019-12-28"
   description = ""
 
 

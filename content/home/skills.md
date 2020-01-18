@@ -25,8 +25,8 @@ subtitle = ""
   name = "C#"
   
 [[feature]]
-  icon = "database"
+  icon = "server"
   icon_pack = "fas"
-  name = "SQL"
+  name = "Nginx"
 
 +++
