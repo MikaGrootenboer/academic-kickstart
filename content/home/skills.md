@@ -25,8 +25,8 @@ subtitle = ""
   name = "C#"
   
 [[feature]]
-  icon = "server"
-  icon_pack = "fas"
-  name = "Nginx"
+  icon = "php"
+  icon_pack = "fab"
+  name = "PHP"
 
 +++

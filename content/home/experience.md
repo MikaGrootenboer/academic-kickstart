@@ -42,6 +42,7 @@ date_format = "Jan 2006"
   company_url = "https://infopact.nl/"
   location = "Dordrecht"
   date_start = "2020-02-10"
+  date_end = "2020-07-10"
   description = ""
 
 
