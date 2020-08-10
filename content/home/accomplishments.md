@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Certified Secure"
-  organization_url = "https://www.certifiedsecure.coms"
+  organization_url = "https://www.certifiedsecure.com"
   title = "Security Specialist"
   url = ""
   certificate_url = "https://www.certifiedsecure.com/profile/CS-25031964562"
