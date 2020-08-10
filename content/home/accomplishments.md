@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Certified Secure"
   organization_url = "https://www.certifiedsecure.coms"
-  title = "Server Security Specialist"
+  title = "Security Specialist"
   url = ""
   certificate_url = "https://www.certifiedsecure.com/profile/CS-25031964562"
   date_start = "2019-03-01"
   date_end = ""
-  description = "UDP Port Scanning, Mail Relaying, Anonymous Uploading and Password Guessing (Obtained all the certificates on Certified Secure)"
+  description = "Port scanning, software version scan, Cross Site Scripting, SQL Injection and Path Traversal (Obtained all the certificates on Certified Secure)"
 
 +++
