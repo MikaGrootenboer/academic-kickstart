@@ -29,7 +29,7 @@ education:
   courses:
   - course: Software Engineering
     institution: Rotterdam University of Applied Sciences
-    year: 2016 - Present
+    year: 2016 - 2020
   - course: HAVO Economy and Society
     institution: Stedelijk Dalton Lyceum Kapteynweg
     year: 2016
