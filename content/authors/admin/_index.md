@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at Rotterdam University of Applied Sciences
+role: Consultant at Transfer Solutions
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
     year: 2016 - 2020
   - course: HAVO Economy and Society
     institution: Stedelijk Dalton Lyceum Kapteynweg
-    year: 2016
+    year: 2011-2016
 
 
 # Social/Academic Networking
@@ -66,5 +66,5 @@ user_groups:
 ---
 
 My name is Mika Grootenboer,
-I’m 21 years old and currently a fourth-year Software Engineering student at Rotterdam University.
-In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. After the internship I decided to follow the Minor Security and the Minor Data Science because I was interested in the safety of applications and in learning what ML implies. After these two Minors I conducted my graduation internship at Infopact which I completed. Currently I’m starting a new adventure as a consultant at Transfer Solutions.
+I’m 21 years old and currently a consultant at Transfer Solutions, before I completed my bachelor degree as Software Engineering at Rotterdam University.
+In my first two years I mainly focused on working with C# and Python. During this time, I worked on multiple small projects given by our university and learned to work in small teams. After these two years I started my internship at a small DevOps team and was surprised by the amount of joy I had working with people and learning new information. After the internship I decided to follow the Minor Security and the Minor Data Science because I was interested in the safety of applications and in learning what ML implies. After these two Minors I conducted my graduation internship at Infopact which I completed. After this I started as a Consultant at Transfer Solutions.

@@ -45,6 +45,16 @@ date_format = "Jan 2006"
   date_end = "2020-07-10"
   description = ""
 
+[[experience]]
+  title = "Consultant"
+  company = "Transfer Solutions"
+  company_url = "https://www.transfer-solutions.com/"
+  location = "Leerdam"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = ""
+
+
 
 
 +++
